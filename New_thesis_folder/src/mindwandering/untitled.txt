@@ -1,0 +1,4 @@
+outliers_influence.py:193: RuntimeWarning: divide by zero encountered in double_scalars
+  vif = 1. / (1. - r_squared_i)
+  
+  [CV] END features__feature_ratio=0.1, features__type_of_selection=correlation-selection, model__C=0.1, model__max_iter=50000, model__solver=lbfgs, outlier__outlier_threshold=0.0, scaling__type_of_scaling=standard, vif__feature_ratio=0.26; total time=   0.8s
